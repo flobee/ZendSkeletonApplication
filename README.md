@@ -7,7 +7,7 @@ This is a simple, skeleton application using the ZF2 MVC layer and module
 systems. This application is meant to be used as a starting place for those
 looking to get their feet wet with ZF2.
 
-SYSTEM REQUIREMENTS
+System requirements
 -------------------
 Zend Framework 2 requires PHP 5.5 or later; we recommend using the latest PHP version whenever possible.
 
